@@ -5,6 +5,10 @@
 # macOS
 .DS_Store
 
+# IDE
+.idea
+
 # Python
 env
+venv
 *.pyc
