@@ -25,8 +25,8 @@
 <!-- LINKS PERMANENT -->
 [license]:          http://creativecommons.org/licenses/by-sa/4.0/
 [license-badge]:    https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-[travis]:           https://travis-ci.org/UNN-ITMM-Software/agile-course-practice-python
-[travis-badge]:     https://travis-ci.org/UNN-ITMM-Software/agile-course-practice-python.svg?branch=master
+[travis]:           https://travis-ci.org/UNN-ITMM-Software/agile-course-practice-template
+[travis-badge]:     https://travis-ci.org/UNN-ITMM-Software/agile-course-practice-template.svg?branch=master
 [coveralls]:        https://coveralls.io/github/UNN-ITMM-Software/agile-course-practice-python?branch=master
 [coveralls-badge]:  https://coveralls.io/repos/github/UNN-ITMM-Software/agile-course-practice-python/badge.svg?branch=master
 [gitter-chat]:      https://gitter.im/agile-course-practice-python/community
