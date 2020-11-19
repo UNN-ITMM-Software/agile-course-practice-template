@@ -3,15 +3,9 @@
 ## Next step
 
     * update lab guides for Python language
-    * fix running GUI apps (issue with importing package)
 
 ## Improvements
 
-    * test project on Windows
-
-    - testing
-      - enable appveyor testing?
-      - enable macOS testing on Travis CI
     - cleaning
       - use fresher versions of dependencies (do we need everything from requirements?)
       - fix flake8 warning (newer version of flake8 and/or pycodestyle=2.4+)
